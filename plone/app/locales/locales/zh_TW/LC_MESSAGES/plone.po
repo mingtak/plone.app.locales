@@ -3269,7 +3269,7 @@ msgstr ""
 
 #: CMFPlone/interfaces/controlpanel.py:548
 msgid "Paste from Word"
-msgstr ""
+msgstr "從 Word 貼上"
 
 #: CMFPlone/browser/templates/plone-addsite.pt:71
 msgid "Path identifier"
@@ -4368,7 +4368,7 @@ msgstr "子主題"
 
 #: plone.app.content/plone/app/content/browser/folder.py:151
 msgid "Success"
-msgstr ""
+msgstr "成功"
 
 #: CMFPlone/controlpanel/browser/mail.py:91
 msgid "Success! Check your mailbox for the test message."
@@ -4376,11 +4376,11 @@ msgstr "成功! 請檢查信箱裡的測試說明。"
 
 #: plone.app.content/plone/app/content/browser/folder.py:490
 msgid "Successfully moved item"
-msgstr ""
+msgstr "已成功移除該項目"
 
 #: plone.app.content/plone/app/content/browser/folder.py:229
 msgid "Successfully pasted all items"
-msgstr ""
+msgstr "已成功貼上所有項目"
 
 #: plone.app.content/plone/app/content/browser/folder.py:436
 msgid "Successfully updated metadata"
@@ -4864,7 +4864,7 @@ msgstr "擴充模組的配置頁面，可以啟用或停用下列的擴充模組
 
 #: CMFPlone/interfaces/controlpanel.py:795
 msgid "This option allows you to choose the spellchecker for TinyMCE. If you want the spellchecker button to be visible, make sure it is enabled in the toolbar settings."
-msgstr ""
+msgstr "指定拼字檢查工具。想要顯示拼字檢查按鈕的話，要到工具列裡完成設定。"
 
 #: CMFPlone/interfaces/controlpanel.py:957
 msgid "This option controls how entities/characters get processed. Named: Characters will be converted into named entities based on the entities option. Numeric: Characters will be converted into numeric entities. Raw: All characters will be stored in non-entity form except these XML default entities: amp lt gt quot"
@@ -4876,15 +4876,15 @@ msgstr ""
 
 #: CMFPlone/interfaces/controlpanel.py:446
 msgid "This option enables you to specify a custom CSS file that replaces the theme content CSS. This CSS file is the one used within the editor (the editable area)."
-msgstr ""
+msgstr "指定客製化的 CSS 檔案，可以取代系統預設值，用來調整編輯器的畫面外觀。"
 
 #: CMFPlone/interfaces/controlpanel.py:413
 msgid "This option gives you the ability to enable/disable auto resizing the editor window depending on the content."
-msgstr ""
+msgstr "勾選的話，編輯器視窗會依照內容長度而自動調整尺寸。"
 
 #: CMFPlone/interfaces/controlpanel.py:404
 msgid "This option gives you the ability to enable/disable resizing the editor window. If the editor width is set to a percentage only vertical resizing is enabled."
-msgstr ""
+msgstr "勾選的話，編輯器視窗可以調整大小。如果寬度是百分比的設定值，只有垂直尺寸能夠調整。"
 
 #: CMFPlone/interfaces/controlpanel.py:439
 msgid "This option gives you the ability to enable/disable the use of the contextmenu."
@@ -4892,11 +4892,11 @@ msgstr ""
 
 #: CMFPlone/interfaces/controlpanel.py:430
 msgid "This option gives you the ability to specify the height of the editor in pixels. If auto resize is enabled this value is used as minimum height."
-msgstr ""
+msgstr "指定編輯器高度的像素值，如果啟用自動調整尺寸的功能，這個設定值會成為最小高度。"
 
 #: CMFPlone/interfaces/controlpanel.py:422
 msgid "This option gives you the ability to specify the width of the editor (like 100% or 400px)."
-msgstr ""
+msgstr "指定編輯器的寬度，可以使用像素值或百分比來控制，例如 100% 或 400px。"
 
 #: CMFPlone/interfaces/controlpanel.py:510
 msgid "This option gives you the ability to specify the width of the toolbar in pixels."
@@ -4971,11 +4971,11 @@ msgstr "設定 RSS 將被重新載入的分鐘數。"
 
 #: CMFPlone/profiles/default/controlpanel.xml
 msgid "TinyMCE"
-msgstr ""
+msgstr "TinyMCE"
 
 #: CMFPlone/controlpanel/browser/tinymce.py:30
 msgid "TinyMCE settings"
-msgstr ""
+msgstr "TinyMCE 設定"
 
 #: plone.app.querystring/plone/app/querystring/profiles/default/registry.xml
 msgid "Tip: you can use * to autocomplete."
@@ -5136,7 +5136,7 @@ msgstr "回復"
 #: CMFPlone/controlpanel/browser/quickinstaller.py:238
 #: plone.app.controlpanel/plone/app/controlpanel/qi.py:204
 msgid "Uninstalled ${product}."
-msgstr ""
+msgstr "解除安裝 ${product}"
 
 #: CMFPlone/interfaces/controlpanel.py:673
 msgid "Unlink"
@@ -5177,7 +5177,7 @@ msgstr "昇級這個網站"
 
 #: CMFPlone/browser/templates/plone-upgrade.pt:63
 msgid "Upgrade your existing content to use Dexterity."
-msgstr ""
+msgstr "升級你已存在的內容項目到 Dexterity"
 
 #: CMFPlone/controlpanel/browser/quickinstaller.py:178
 #: plone.app.controlpanel/plone/app/controlpanel/qi.py:144
@@ -5494,11 +5494,11 @@ msgstr ""
 
 #: plone.app.contenttypes/plone/app/contenttypes/browser/templates/archetypes_warning_viewlet.pt:9
 msgid "You can't edit this content unless you ${migrate}"
-msgstr ""
+msgstr "你不能編輯這個內容直到你 ${migrate}"
 
 #: plone.app.contenttypes/plone/app/contenttypes/browser/templates/archetypes_warning_viewlet.pt:5
 msgid "You can't edit this content. Ask your administrator to migrate to Dexterity!"
-msgstr ""
+msgstr "你無法編輯這個項目內容，請向網站管理員反應將內容 Migrate 至 Dexterity"
 
 #: plone.app.controlpanel/plone/app/controlpanel/language.py:78
 msgid "You cannot disable country-specific language variants, please choose a different site language first."
