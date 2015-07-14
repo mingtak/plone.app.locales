@@ -936,7 +936,7 @@ msgstr "配置進階搜尋表單裡的搜尋選項。"
 
 #: plone.app.contenttypes/plone/app/contenttypes/migration/atct_migrator_results.pt:20
 msgid "Congratulations! You migrated from Archetypes to Dexterity."
-msgstr ""
+msgstr "恭喜，你已成功由 Archetypes 轉為 Dexterity"
 
 #. Default: "Contact"
 #: CMFPlone/profiles/default/actions.xml
@@ -1131,7 +1131,7 @@ msgstr ""
 
 #: CMFPlone/interfaces/controlpanel.py:783
 msgid "Custom Toolbar Buttons"
-msgstr ""
+msgstr "自訂工具列 Buttons"
 
 #: CMFPlone/interfaces/controlpanel.py:315
 #: plone.app.controlpanel/plone/app/controlpanel/filter.py:64
@@ -1221,7 +1221,7 @@ msgstr "預設格式"
 
 #: CMFPlone/controlpanel/browser/language.py:31
 msgid "Default language not in available languages"
-msgstr ""
+msgstr "預設的語言不是可用的語言"
 
 #: plone.app.textfield/plone/app/textfield/interfaces.py:19
 msgid "Default output MIME type"
@@ -1229,7 +1229,7 @@ msgstr "預設輸出的 MIME 類型"
 
 #: plone.app.content/plone/app/content/browser/folder.py:528
 msgid "Default page set successfully"
-msgstr ""
+msgstr "設定預設頁面成功"
 
 #: CMFPlone/controlpanel/browser/syndication.py:16
 msgid "Default syndication settings."
@@ -1241,7 +1241,7 @@ msgstr "預設佈景主題"
 
 #: CMFPlone/browser/templates/plone-addsite.pt:117
 msgid "Default timezone"
-msgstr ""
+msgstr "預設時區"
 
 #: plone.app.contenttypes/plone/app/contenttypes/behaviors/collection.py:43
 msgid "Define the search terms for the items you want to list by choosing what to match on. The list of results will be dynamically updated"
@@ -1335,7 +1335,7 @@ msgstr "停用"
 #: CMFPlone/interfaces/controlpanel.py:292
 #: plone.app.controlpanel/plone/app/controlpanel/filter.py:41
 msgid "Disable html filtering"
-msgstr ""
+msgstr "關閉 Html 安全性過濾"
 
 #: CMFPlone/interfaces/controlpanel.py:92
 msgid "Disabling locking here will only affect users editing content through the Plone web UI.  Content edited via WebDAV clients will still be subject to locking."
@@ -1600,7 +1600,7 @@ msgstr "啟用使用者資料夾"
 
 #: CMFPlone/interfaces/controlpanel.py:412
 msgid "Enable auto resizing of the editor window."
-msgstr ""
+msgstr "允許自動調整編輯視窗尺寸"
 
 #: CMFPlone/interfaces/controlpanel.py:438
 msgid "Enable contextmenu"
@@ -1616,7 +1616,7 @@ msgstr "啟用網頁編輯的鎖定功能"
 
 #: CMFPlone/interfaces/controlpanel.py:403
 msgid "Enable resizing the editor window."
-msgstr ""
+msgstr "允許調整編輯器尺寸"
 
 #: CMFPlone/interfaces/controlpanel.py:1108
 msgid "Enable self-registration"
