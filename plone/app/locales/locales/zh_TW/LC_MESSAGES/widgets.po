@@ -121,7 +121,7 @@ msgstr "建立"
 
 #: ./patterns/thememapper/pattern.js
 msgid "Build CSS"
-msgstr "建立CSS"
+msgstr "建立 CSS"
 
 #: ./patterns/resourceregistry/js/builder.js
 msgid "Build it"
@@ -129,7 +129,7 @@ msgstr "建立"
 
 #: ./patterns/thememapper/pattern.js
 msgid "Build rule"
-msgstr "建立rule"
+msgstr "建立 Rule"
 
 #: ./patterns/resourceregistry/js/registry.js
 msgid "Bundle this depends on"
@@ -577,7 +577,7 @@ msgstr "相反順序"
 
 #: ./patterns/thememapper/js/rulebuilderview.js
 msgid "Rule Builder"
-msgstr "rule建立工具"
+msgstr "Rule 建立工具"
 
 #: ./patterns/filemanager/pattern.js
 msgid "Save"
